@@ -11,7 +11,7 @@
 
 #### 1. System Prompt Template
 
-"Act as a Tourism Development Officer assigned to Samal Island, Davao del Norte. Prepare a 300-word operational brief for local tourism stakeholders.
+"Act as a Tourism Development Officer assigned to Samal Island, Davao del Norte. 
 
 Context: Samal Island continues to attract more visitors each year, creating challenges related to waste management, environmental protection, and sustainable tourism practices.
 
