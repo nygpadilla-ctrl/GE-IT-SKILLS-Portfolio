@@ -9,27 +9,27 @@
 
 ### The Samal Eco-Tourism Prompt System
 
-#### 1. System Prompt Template (V3 - Final Optimized)
+#### 1. System Prompt Template
 
-"Act as a Senior Tourism Development Officer specializing in Samal Island's eco-tourism sector. Your objective is to draft a 300-word operational brief for local tourism stakeholders.
+"Act as a Tourism Development Officer assigned to Samal Island, Davao del Norte. Prepare a 300-word operational brief for local tourism stakeholders.
 
-Context: Tourist arrivals are increasing across Samal Island, creating concerns regarding environmental sustainability, waste management, and coastal resource protection.
+Context: Samal Island continues to attract more visitors each year, creating challenges related to waste management, environmental protection, and sustainable tourism practices.
 
-Constraints: Use a professional, community-centered tone. Do NOT mention foreign tourism models or international case studies. Focus entirely on local barangays, tourism operators, environmental groups, and the City Tourism Office. Do not use corporate jargon.
+Requirements: Use a professional and community-oriented tone. Focus only on Samal Island and its local stakeholders, including barangay officials, tourism operators, environmental organizations, and the City Tourism Office. Avoid using foreign tourism examples or international case studies.
 
-Format: Output in clear Markdown with exactly three actionable steps under the heading '### Sustainable Tourism Interventions'."
+Format: Present the response in Markdown and include exactly three recommendations under the heading '### Sustainable Tourism Interventions'."
 
 #### 2. Prompt Battle Ledger
 
-| Version | Prompt Modifier Added | Output Quality Reflection |
+| Version | Changes Made | Reflection |
 | :--- | :--- | :--- |
-| V1 | "Write a tourism plan for Samal Island." | Too broad. Generated generic recommendations that could apply to any tourist destination. |
-| V2 | Added eco-tourism focus and local stakeholders. | Better, but still referenced foreign tourism examples and global sustainability frameworks. |
-| V3 | Added a 300-word limit, local stakeholder requirements, and geographic constraints. | Target hit. Direct, actionable, and highly localized to Samal Island tourism management. |
+| V1 | Asked the AI to create a tourism plan for Samal Island. | The response was too general and could have applied to any tourist destination. |
+| V2 | Added information about eco-tourism and community involvement. | The output became more relevant but still included examples from outside the Philippines. |
+| V3 | Added local stakeholders, location-specific restrictions, and a required format. | The response became more focused on Samal Island and provided clearer recommendations for local use. |
 
 #### 3. Visual Branding Asset
 
-- **Engine Used:** Canva Magic Media / DALL·E 3
-- **Visual Prompt:** "A flat minimalist vector logo of a coconut tree intertwined with an ocean wave and location pin. SVG vector style, clean geometric shapes, no gradients, no shadows, white background, dark green, ocean blue, and warm gold color palette. Professional government-report aesthetic representing sustainable tourism operations in Samal Island, Davao del Norte."
+- **Engine Used:** Canva Magic Media
+- **Visual Prompt:** "Flat minimalist vector icon featuring a coconut tree, ocean wave, and location pin. Clean geometric shapes, flat design, no gradients, no shadows, white background, dark green, blue, and gold color palette. Represents sustainable tourism in Samal Island, Davao del Norte."
 
 ![Samal Eco-Tourism Icon](samal-icon.png)
