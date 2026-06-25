@@ -7,6 +7,10 @@
 * Secondary Color `#E5E5E5`
 * Accent Color `#A6A6A6`
 
+---
+
+## Projects
+
 ### 1 The Samal Eco-Tourism Prompt System
 
 #### 1. System Prompt Template
