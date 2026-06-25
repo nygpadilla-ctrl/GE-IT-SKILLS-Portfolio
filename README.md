@@ -34,7 +34,7 @@ Format: Present the response in Markdown and include exactly three recommendatio
 
 ![Samal Eco-Tourism Icon](samal-icon.png)
 
-### Literature Verification Log
+### 2. Literature Verification Log
 
 **Topic:** Sustainable Tourism Development in Samal Island, Davao del Norte
 
