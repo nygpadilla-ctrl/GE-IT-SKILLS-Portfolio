@@ -11,7 +11,7 @@
 
 ## Projects
 
-### 1 The Samal Eco-Tourism Prompt System
+### Project 1. The Samal Eco-Tourism Prompt System
 
 #### 1. System Prompt Template
 
@@ -38,7 +38,7 @@ Format: Present the response in Markdown and include exactly three recommendatio
 
 ![Samal Eco-Tourism Icon](samal-icon.png)
 
-### 2. Literature Verification Log
+### Project 2. Literature Verification Log
 
 **Topic:** Sustainable Tourism Development in Samal Island, Davao del Norte
 
@@ -74,7 +74,7 @@ The AI tool helped me identify recurring themes and summarize large amounts of i
 
 This verification exercise demonstrated the importance of combining AI-assisted research with human evaluation. By reviewing the generated summaries against credible sources, I was able to identify inaccuracies, correct misleading statements, and improve the overall reliability of the literature review. The process ensured that the final output remained academically sound and suitable for policy discussions.
 
-### 3 Automated Visual Data Report
+### Project 3. Automated Visual Data Report
 
 #### 1. Dataset Used
 
